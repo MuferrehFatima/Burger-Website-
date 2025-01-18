@@ -12,9 +12,4 @@ An ecommerce website for a gourmet burger restaurant
 
 ## Author
 
-[Mark Munyaka](https://markmunyaka.com)
-
-GitHub: [@Marktawa](https://github.com/Marktawa)
-
-Twitter: [@McMunyaka](https://twitter.com/McMunyaka)
 
